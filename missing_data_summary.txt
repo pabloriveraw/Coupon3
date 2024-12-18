@@ -1,0 +1,28 @@
+Summary of missing data:
+                      Missing Values  Percentage
+destination                        0         0.0
+passanger                          0         0.0
+weather                            0         0.0
+temperature                        0         0.0
+time                               0         0.0
+coupon                             0         0.0
+expiration                         0         0.0
+gender                             0         0.0
+age                                0         0.0
+maritalStatus                      0         0.0
+has_children                       0         0.0
+education                          0         0.0
+occupation                         0         0.0
+income                             0         0.0
+car                                0         0.0
+Bar                                0         0.0
+CoffeeHouse                        0         0.0
+CarryAway                          0         0.0
+RestaurantLessThan20               0         0.0
+Restaurant20To50                   0         0.0
+toCoupon_GEQ5min                   0         0.0
+toCoupon_GEQ15min                  0         0.0
+toCoupon_GEQ25min                  0         0.0
+direction_same                     0         0.0
+direction_opp                      0         0.0
+Y                                  0         0.0
