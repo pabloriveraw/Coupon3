@@ -7,14 +7,14 @@ this repository contains:
 
 Folder assignment5_1_starter has the original files provided. This folder has 2 subfolders: data and images. The Folder data has the data coupons.csv 
 
-/PabloCoupon has the following folders
+This repo has the following folders
 
-/PabloCoupon/assignment5_1_starter
+/assignment5_1_starter
 assignment5_1_starter has the following folders 
 /assignment5_1_starter/data
 /assignment5_1_starter/images
 
-inside of /PabloCoupon
+inside of the root of this repo you have 
 Number of Duplicates rows.rtf
 Numerical columns anomalies.rtf
 Summary of missing data.rtf
@@ -25,11 +25,11 @@ readme.txt
 rows_changed_with_mean.txt
 summary.rtf
 
-inside of /PabloCoupon/assignment5_1_starter
-PabloRiveraAssignment51.ipynb <<--- Python answers 
-inside of /PabloCoupon/assignment5_1_starter/data
+inside of /assignment5_1_starter
+PabloRiveraAssignment51.ipynb <<--- Python answers !!! 
+inside of /assignment5_1_starter/data
 coupons.csv
-inside of PabloCoupon/assignment5_1_starter/images
+inside of /assignment5_1_starter/images
 cat.png
 diff.png
 instructions.png
